@@ -1,0 +1,6 @@
+{
+  "name": "CampusQuery - College FAQ & Services AI Assistant",
+  "description": "AI-powered College FAQ Chatbot providing verified 24/7 instant answers on academics, admissions, fees, hostel, library, placements, and campus life with RAG retrieval, Hinglish support, and an admin knowledge base manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
